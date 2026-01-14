@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.env
+.etl.db
+database/*.db
+data/in/*.csv
+data/rejected/*.csv
